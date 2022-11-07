@@ -10,4 +10,4 @@ Packege we install as follow below..
 
 4)hbs { tamplet engin }
 
-5)nodemon --save-dev { we're using this only in dev enviroment not in production }
+5)nodemon dev Env { we're using this only in dev enviroment not in production }
